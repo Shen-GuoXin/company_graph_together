@@ -341,4 +341,5 @@ def single_company(company, name="single_company"):
 
 
 if __name__ == '__main__':
+    s_test = "测试！"
     app.run(debug=True, host="127.0.0.1")
